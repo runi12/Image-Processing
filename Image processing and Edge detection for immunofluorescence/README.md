@@ -3,4 +3,13 @@ Script for evaluating polyploid cells in immunofluorescence images. Polyploidy c
 ![standard phalloidin_script](https://github.com/user-attachments/assets/d806e314-70fe-40f2-aa8c-05f79bbc21f5)
 
 # How to use it
-Download the no
+Download the fraction_area.py file. Access Google colab (https://colab.google/) and upload the python file, as shown in the image below:
+![image](https://github.com/user-attachments/assets/4c05ff32-3c79-470d-a5a8-214971d89041)
+
+
+
+Upload the images to the google colab notebook and run the notebook.
+![image](https://github.com/user-attachments/assets/20f9a56f-f993-4230-ab64-9b6aef75b29e)
+
+
+
