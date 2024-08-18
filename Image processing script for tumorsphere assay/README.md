@@ -3,7 +3,7 @@ Python script to perform image processing on tumorsphere assay, measurements are
 ![spheres_script](https://github.com/user-attachments/assets/77afbd3e-8933-4592-9b9e-a0f4bccc04b7)
 
 # How to use it
-Download the sphere_counting.ipynb file, access Google colab (https://colab.google/) and upload the python file, as shown in the image below:
+Download the sphere_counting.ipynb file, access Google colab (https://colab.google/) and upload the file, as shown in the image below:
 ![image](https://github.com/user-attachments/assets/4c05ff32-3c79-470d-a5a8-214971d89041)
 
 
