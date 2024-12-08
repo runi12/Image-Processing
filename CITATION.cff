@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sartorelli"
+  given-names: "Gustavo"
+  orcid: "https://orcid.org/0009-0007-0956-4901"
+title: "GSCR-Processing"
+version: 1.0.0
+date-released: 2024-12-07
+url: "https://github.com/runi12/Image-Processing"
